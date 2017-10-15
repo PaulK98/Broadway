@@ -21,3 +21,17 @@ body {
 #header a {
   color: white;
 }
+
+#process-heading {
+  font-size: 32px;
+  font-weight: bold;
+}
+
+.sub-heading {
+  font-size: 23px;
+  font-weight: bold;
+}
+
+.description {
+  font-size: 14px;
+}
