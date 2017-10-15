@@ -35,3 +35,10 @@ body {
 .description {
   font-size: 14px;
 }
+
+#contact-heading {
+  background-image: url('../img/the-flatiron-building.png');
+  font-size: 23px;
+  font-weight: bold;
+  color: white;
+}
